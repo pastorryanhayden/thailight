@@ -1,96 +1,63 @@
 .slideout-menu
-    background: url("http://sitesforchurch.s3.amazonaws.com/menubackground.jpg") no-repeat top left
-    width: 334px
-
-#menu
+    background: url("/assets/design/menu.png") top left
     width: 334px
 
     .logo
-        padding: 0
-
-        img
-            margin: 0
-
-    .navigation
-        padding: 27px
-
-        ul.menu.vertical
-            border-top: 1px solid #2F2213
-
-            li
-                line-height: 46px
-                border-bottom: 1px solid #2F2213
-                padding-top: 3px
-                padding-bottom: 3px
-
-                &:hover
-                    background: url("http://sitesforchurch.s3.amazonaws.com/menu_shadow.png") no-repeat center center
-
-                    a
-                        color: #D2C2A6
-
-                a
-                    color: $main_light_color
-                    font-size: 16px
-                    text-transform: uppercase
-
-                    i
-                        margin-right: 15px
+        height: 165px
+        display: flex 
+        justify-content: center 
+        align-items: center 
+        width: 100%
+        a 
+            width: 253px
+            img
+                width: 253px
 
     .get-connected
-        background-color: #281D11
-        margin-top: 90px
+        background: rgba(58,58,58,.3)
+        min-height: 195px
+        border-top: 1px solid #FDFEFE
+        border-bottom: 1px solid #FDFEFE
+        text-align: center
+        padding: 20px 
 
-        .connected-header
-            display: flex
+        ul.social-menu
+            display: flex 
+            list-style-type: none
             justify-content: space-between
-            align-items: baseline 
-            border-bottom: 1px solid #CDC5B7
-            padding: 15px 30px
+            font-size: 20px
+            color: $main_light_color
+            width: 170px
+            margin-left: auto 
+            margin-right: auto 
 
-            h3
+            li a 
                 color: $main_light_color
-                font-size: 17px
-                text-transform: uppercase
-                font-weight: bold 
-                margin-bottom: 0
-
-            ul.social-menu
-                list-style-type: none
-                display: flex
-                justify-content: space-between
-                margin-bottom: 0
-                li 
-                    margin-right: 14px
-                    margin-bottom: 0 
-                    &:last-child
-                        maring-right: 0
-                li a
-                    color: $main_light_color
-                    font-size: 20px
         .details
-            padding: 30px
-            p
-                padding-left: 30px
-                font-size: 16px
-                line-height: 22px
+            p 
+                margin-bottom: 0
+    .menunav
+        padding-top: 50px
+        padding-bottom: 50px 
+        text-align: center
+        border-bottom: 1px solid #FDFEFE
+        margin-bottom: 50px
+        ul.menu.vertical
+            li a 
                 color: $main_light_color
-                margin-bottom: 14px
-            p.email
-                background: url(http://sitesforchurch.s3.amazonaws.com/fa-send.png) no-repeat 0 3px 
-            p.address
-                background: url(http://sitesforchurch.s3.amazonaws.com/fa-envelope.png) no-repeat 0 3px
-            p.phone
-                background: url(http://sitesforchurch.s3.amazonaws.com/fa-phone.png) no-repeat 0 3px
-        .links
-            display: flex
-            flex-direction: column
-            justify-content: space-between
-            align-items: center 
-            padding: 30px 
-            border-top: 1px solid #CDC5B7
-            a 
-                margin-bottom: 15px 
-                &:last-child
-                    margin-bottom: 0
+                text-transform: uppercase
+                &::after
+                    display: none  
+            li ul li a 
+                text-transform: lowercase
+    .links
+        text-align: center 
+        a 
+            margin-bottom: 30px
+            line-height: 61px
+            display: block 
+            margin-left: auto
+            margin-right: auto 
+            
+
 

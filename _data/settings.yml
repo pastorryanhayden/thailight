@@ -1,20 +1,20 @@
 name: 'Thailight.org'
-logo_image_path: 
-logo2_image_path: 
-main_image: 
-phone: 
-email: 
-facebook: 
-twitter:
-youtube:
-instagram:
-address: 
+logo_image_path: 'assets/design/logo.png'
+logo2_image_path: 'assets/design/logo.png'
+main_image: 'assets/design/main_background.png'
+phone: '812.764.0618'
+email: 'Bryan@ThaiLight.org'
+facebook: 'https://www.facebook.com/BryanandAngelRies?ref=br_rs'
+twitter: 'https://twitter.com/BryanLRies'
+youtube: 'https://www.youtube.com/channel/UCcm4_LNdo3TX8gG7LX3AhXw'
+instagram: 'https://www.instagram.com/bryanleeries/'
+address: '1458 Scarlet Court'
 address2:
-City: 
-State: 
-Zip: 
-mission_board_image: 
-sending_church_image: 
+City: Franklin
+State: IN
+Zip: '46131'
+mission_board_image: 'assets/design/gibm.png'
+sending_church_image: 'assets/design/northern_park.png'
 main_blog_image: 
 main_sermon_image: 
 default_calendar_image: 

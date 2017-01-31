@@ -3,18 +3,12 @@
     <img src="{{site.data.settings.logo2_image_path}}" alt="">
     </a>
 </div><!--/logo-->
-<div class="menunav">
-    <ul class="menu vertical">
-        <li><a href="updates/"><i class="fa fa-list-alt"></i> News &amp; Updates</a></li>
-        <li><a href="camps.html"><i class="fa fa-calendar-o"></i> Upcoming Camps</a></li>
-        <li><a href="about-us.html"><i class="fa fa-question-circle"></i> About Us</a></li>
-        <li><a href="volunteer.html"><i class="fa fa-users"></i> Volunteer</a></li>
-        <li><a href="donate.html"><i class="fa fa-cc-paypal"></i> Donate</a></li>
-    </ul><!--/menu-->
-</div><!--/navigation-->
+<div class="contact">
+    
+</div><!--/contact-->
+
 <div class="get-connected">
     <div class="connected-header">
-        <h3>Get Connected</h3>
         <ul class="social-menu">
             {% if  site.data.settings.facebook %}
             <li><a href="{{site.data.settings.facebook}}"><i class="fa fa-facebook-square"></i></a></li>
@@ -31,14 +25,37 @@
         </ul><!--/social-menu-->
     </div><!--/connected-header-->
     <div class="details">
-        <p class="email">{{site.data.settings.email}}</p>
         <p class="address">{{site.data.settings.address}}{% if site.data.settings.address2 %}<br> {{site.data.settings.address2}}
 {% endif %}<br>
         {{site.data.settings.City}}, {{site.data.settings.State}} {{site.data.settings.Zip}}</p>
         <p class="phone">{{site.data.settings.phone}}</p>
+        <p class="email">{{site.data.settings.email}}</p>
     </div><!--/details-->
-    <div class="links">
-        <a href="#"><img src="{{site.data.settings.project_south_africa_image}}" alt=""></a>
-        <a href="#"><img src="{{site.data.settings.mission_board_image}}" alt=""></a>
-    </div><!--/links-->
 </div><!--/get-connected-->
+<div class="menunav">
+    <ul class="menu vertical" data-accordion-menu>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About Us</a>
+            <ul class="menu vertical nested">
+                {% for item in site.about-family %}
+                <li><a href="{{item.url}}">{{item.title}}</a></li>
+                {% endfor %}
+            </ul>
+        </li>
+        <li><a href="#">About Thailand</a>
+            <ul class="menu vertical nested">
+                <li><a href="#">our family</a></li>
+                <li><a href="#">our family</a></li>
+                <li><a href="#">our family</a></li>
+                <li><a href="#">our family</a></li>
+            </ul>
+        </li>
+        <li><a href="#">Updates</a></li>
+        <li><a href="#">Schedule</a></li>
+    </ul><!--/menu-->
+</div><!--/navigation-->
+<div class="links">
+        
+        <a href="#"><img src="{{site.data.settings.mission_board_image}}" alt="" width="214"></a>
+        <a href="#"><img src="{{site.data.settings.sending_church_image}}" alt="" width="245"></a>
+</div><!--/links-->

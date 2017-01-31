@@ -4,9 +4,9 @@
 
 @charset 'utf-8';
 
-{{main_font_import_code}}
+{{site.data.design_settings.main_font_import_code}}
 {% if site.data.design_settings.secondary_font %}
-{{secondary_font_import_code}}
+{{site.data.design_settings.secondary_font_import_code}}
 {% endif %}
 
 

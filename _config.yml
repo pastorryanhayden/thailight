@@ -29,7 +29,12 @@ keep_files:
   - assets/css
   - assets/js
 
-
+collections:
+  about-family:
+    output: true
+  about-thailand:
+    output: true
+  
 
 
 
