@@ -15,7 +15,7 @@ State: IN
 Zip: '46131'
 mission_board_image: 'assets/design/gibm.png'
 sending_church_image: 'assets/design/northern_park.png'
-main_blog_image: 
+main_blog_image: 'http://sitesforchurch.s3.amazonaws.com/ministryupdate%20ries.png'
 main_sermon_image: 
 default_calendar_image: 
 Google_calendar_id: 
