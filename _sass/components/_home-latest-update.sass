@@ -13,7 +13,15 @@
     .hlu-content 
         display: flex 
         justify-content: space-between
+        align-items: center 
+        flex-direction: column
+        +breakpoint(950px)
+            align-items: flex-start
+            flex-direction: row
         .hlu-form
+            order: 2
+            +breakpoint(950px)
+                order: 1
             width: 467px
             height: 508px 
             background: url(/assets/design/updates.png) no-repeat center center
@@ -55,7 +63,10 @@
 
         .hlu-update 
             max-width: 514px
-            padding: 0 30px  
+            padding: 0 30px
+            order: 1
+            +breakpoint(950px)
+                order: 2  
             h1
                 text-indent: 0
                 background: none
@@ -70,6 +81,7 @@
                     margin-bottom: 0
                     line-height: 40px
                     font-size: 40px 
+                    width: 100%
                 p.author
                     font-size: 15px
                     font-weight: bold 
@@ -79,7 +91,10 @@
                     text-decoration: underline
                     font-weight: bold
             .allposts 
-                padding-top: 50px 
+                padding-top: 50px
+                margin-bottom: 50px
+                +breakpoint(950px)
+                    margin-bottom: 0 
                 a 
                     text-indent: -5000px 
                     background: url(/assets/design/updatesgreen.png) no-repeat top left 
