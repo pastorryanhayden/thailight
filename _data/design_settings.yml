@@ -4,8 +4,8 @@ main_bright_color: '#10CBCD'
 secondary_bright_color: '#B7B7B7'
 main_font: "'Raleway', sans-serif"
 main_font_import_code: "@import url('https://fonts.googleapis.com/css?family=Raleway:300,400,400i,700');"
-secondary_font: 
-secondary_font_import_code: 
+secondary_font: "'Oswald', sans-serif"
+secondary_font_import_code: "@import url('https://fonts.googleapis.com/css?family=Oswald');"
 _comments:
   main_font: "i.e. 'Playfair Display', serif - IMPORTANT - leave off the 'font-family' and the trailing semi-colon!"
   main_font_import_code: "i.e. @import url('https://fonts.googleapis.com/css?family=Playfair+Display'); - IMPORTANT - INCLUDE the trailing-semicolon!"
