@@ -1,7 +1,7 @@
 name: 'Thailight.org'
-logo_image_path: 'assets/design/logo.png'
-logo2_image_path: 'assets/design/logo.png'
-main_image: 'assets/design/main_background.png'
+logo_image_path: '/assets/design/logo.png'
+logo2_image_path: '/assets/design/logo.png'
+main_image: '/assets/design/main_background.png'
 phone: '812.764.0618'
 email: 'Bryan@ThaiLight.org'
 facebook: 'https://www.facebook.com/BryanandAngelRies?ref=br_rs'
@@ -13,8 +13,8 @@ address2:
 City: Franklin
 State: IN
 Zip: '46131'
-mission_board_image: 'assets/design/gibm.png'
-sending_church_image: 'assets/design/northern_park.png'
+mission_board_image: '/assets/design/gibm.png'
+sending_church_image: '/assets/design/northern_park.png'
 main_blog_image: 'http://sitesforchurch.s3.amazonaws.com/ministryupdate%20ries.png'
 main_sermon_image: 
 default_calendar_image: 

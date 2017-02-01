@@ -1,13 +1,26 @@
 <!doctype html>
 <html class="no-js" lang="en">
   {% include head.html%}
-  <body class="{{page.body_class}}">
+  <body class="secondary {{page.body_class}}">
   <nav id="menu">
       {% include menu.html %}
   </nav>
   <main id="panel">
       {% include navigation.html %}
+      <div class="pageheader" style="background: url({{site.data.settings.main_image}}) no-repeat bottom center; background-size: cover;">
+        <h1>{{page.title}}</h1>
+      </div><!--/pageheader-->
+      <div class="breadcrumbbar">
+        <p><a href="{{site.url}}">Home</a> <i class="fa fa-angle-double-right"></i> {% if page.collection %}   {{page.collection}} <i class="fa fa-angle-double-right"></i>{% endif%}  {{page.title}}</p>
+      </div><!--/breadcrumbbar-->
+      <div class="content">
+        <div class="content-wrapper">
+          {% if page.featured_image %}
+          <img class="featured_image" src="{{page.featured_image}}" alt="">
+          {% endif %}
           {{ content }}
+          </div><!--/content-wrapper-->
+      </div><!--/content-->
       {% include footer.html%}
   </main>
   </body>

@@ -1,37 +1,37 @@
 .footer
-    background: url(http://sitesforchurch.s3.amazonaws.com/darkpaper.png)
-    display: flex
-    flex-direction: column
-    justify-content: center
-    align-items: center
+    background: url(assets/design/footer.png)
+    padding: 60px
+    display: flex 
+    flex-direction: column 
+    justify-content: space-around
+    align-items: center 
+    +breakpoint(medium)
+        flex-direction: row 
+    .verse
+        max-width: 500px
+        text-align: center
+        margin-bottom: 80px
+        +breakpoint(medium)
+            margin-bottom: 0 
+        p 
+            font-size: 20px
+            &.reference
+                font-weight: bold 
+    .get-connected
+        text-align: left
 
-    // min-height: 287px
+        ul.social-menu
+            display: flex 
+            list-style-type: none
+            justify-content: space-between
+            font-size: 20px
+            color: $main_dark_color
+            width: 170px
+            margin-left: auto 
+            margin-right: auto 
 
-    .button-links
-        display: flex
-        margin-top: 50px
-
-        a:first-child
-            margin-right: 20px
-
-    .social-links
-        display: flex
-        width: 160px
-        justify-content: space-around
-        margin-top: 22px
-
-    .footer-text
-        width: 100%
-        border-top: 1px solid $main_light_color
-        margin-top: 30px
-        height: 60px
-        display: flex
-        flex-direction: column
-        justify-content: center
-        align-items: center
-
-        p
-            font-size: 13px
-            line-height: 13px
-            color: #CDC5B7
-            margin: 0
+            li a 
+                color: $main_dark_color
+        .details
+            p 
+                margin-bottom: 0

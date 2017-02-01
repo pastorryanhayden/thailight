@@ -1,5 +1,35 @@
 {% assign settings = site.data.settings %}
 <div class="footer">
+  <div class="verse">
+    <p class="editable">“And he said unto them, Go ye into all the world, and preach the gospel to every creature.”</p>
+    <p class="reference editable">Mark 16:15</p>
+  </div><!--/verse-->
+  <div class="get-connected">
+    <div class="connected-header">
+        
+    </div><!--/connected-header-->
+    <div class="details">
+        <p class="address">{{site.data.settings.address}}{% if site.data.settings.address2 %}<br> {{site.data.settings.address2}}
+{% endif %}<br>
+        {{site.data.settings.City}}, {{site.data.settings.State}} {{site.data.settings.Zip}}</p>
+        <p class="phone">{{site.data.settings.phone}}</p>
+        <p class="email">{{site.data.settings.email}}</p>
+    </div><!--/details-->
+    <ul class="social-menu">
+            {% if  site.data.settings.facebook %}
+            <li><a href="{{site.data.settings.facebook}}"><i class="fa fa-facebook-square"></i></a></li>
+            {% endif %}
+            {% if  site.data.settings.twitter %}
+            <li><a href="{{site.data.settings.twitter}}"><i class="fa fa-twitter-square"></i></a></li>
+            {% endif %}
+            {% if  site.data.settings.instagram %}
+            <li><a href="{{site.data.settings.instagram}}"><i class="fa fa-instagram"></i></a></li>
+            {% endif %}
+            {% if  site.data.settings.youtube %}
+            <li><a href="{{site.data.settings.youtube}}"><i class="fa fa-youtube"></i></a></li>
+            {% endif %}
+        </ul><!--/social-menu-->
+</div><!--/get-connected-->
 </div><!--/footer-->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.js"></script>
 <!--     <script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script> -->
@@ -20,7 +50,7 @@
   slideout.toggle();
 });
       $(document).ready(function(){
-
+        $(document).foundation();
     {{page.extra_scripts | raw }}
 
 
