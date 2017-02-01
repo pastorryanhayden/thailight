@@ -37,17 +37,16 @@
         <li><a href="#">Home</a></li>
         <li><a href="#">About Us</a>
             <ul class="menu vertical nested">
-                {% for item in site.about-family %}
+                {% for item in site.about_our_family %}
                 <li><a href="{{item.url}}">{{item.title}}</a></li>
                 {% endfor %}
             </ul>
         </li>
         <li><a href="#">About Thailand</a>
             <ul class="menu vertical nested">
-                <li><a href="#">our family</a></li>
-                <li><a href="#">our family</a></li>
-                <li><a href="#">our family</a></li>
-                <li><a href="#">our family</a></li>
+                {% for item in site.about_thailand %}
+                <li><a href="{{item.url}}">{{item.title}}</a></li>
+                {% endfor %}
             </ul>
         </li>
         <li><a href="#">Updates</a></li>

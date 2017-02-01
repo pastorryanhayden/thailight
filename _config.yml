@@ -30,9 +30,9 @@ keep_files:
   - assets/js
 
 collections:
-  about-family:
+  about_our_family:
     output: true
-  about-thailand:
+  about_thailand:
     output: true
   
 
