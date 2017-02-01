@@ -1,5 +1,5 @@
 <div class="logo">
-    <a href="{{site.url}}">
+    <a href="{{site.url}}/">
     <img src="{{site.data.settings.logo2_image_path}}" alt="">
     </a>
 </div><!--/logo-->
@@ -34,7 +34,7 @@
 </div><!--/get-connected-->
 <div class="menunav">
     <ul class="menu vertical" data-accordion-menu>
-        <li><a href="#">Home</a></li>
+        <li><a href="{{site.url}}/">Home</a></li>
         <li><a href="#">About Us</a>
             <ul class="menu vertical nested">
                 {% for item in site.about_our_family %}
@@ -49,7 +49,7 @@
                 {% endfor %}
             </ul>
         </li>
-        <li><a href="#">Updates</a></li>
+        <li><a href="{{site.url}}/updates/">Updates</a></li>
         <li><a href="#">Schedule</a></li>
     </ul><!--/menu-->
 </div><!--/navigation-->
