@@ -11,7 +11,7 @@
             text-transform: uppercase
     .breadcrumbbar
         height: 45px
-        background: url(assets/design/navbar.png)
+        background: url(assets/design/dark_exa.png)
         width: 100%
 
         p 
@@ -27,10 +27,12 @@
                 text-decoration: underline
     .content 
         background: url(assets/design/main.png)
-        padding: 40px
+        padding: 40px 0
+        +breakpoint(medium)
+            padding: 40px
         .content-wrapper
             width: 90%
-            max-width: 1200px
+            max-width: 900px
             margin-left: auto
             margin-right: auto 
             img.featured_image

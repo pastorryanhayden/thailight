@@ -1,9 +1,9 @@
 ---
 title: january update
-layout: 
+layout: post
 featured_image:
-pdf_url:
-jpg_url:
+pdf_url: '/updates/test.pdf'
+jpg_url: '/updates/test.jpg'
 date:   2017-01-16 18:35:14 -0600
 ---
 
