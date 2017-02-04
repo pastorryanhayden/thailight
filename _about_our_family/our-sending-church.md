@@ -10,6 +10,7 @@ layout: default
 ### Greenwood, IN
 
 ![](http://sitesforchurch.s3.amazonaws.com/pastorpierce.png)
+
 Allen Pierce, Pastor
 
 Our sending church is Northern Park Baptist Church in Greenwood, Indiana under the leadership of Pastor Allen Pierce.
