@@ -1,28 +1,47 @@
 ---
 title: Our Doctrine
 order: 1
-featured_image:
+featured_image: /uploads/whatwebelieve.jpg
 layout: default
 ---
 
-<p>Below, you&#8217;ll find a full statement of what we believe from the scriptures.  This statement will dictate the doctrine that we teach and preach on the field.</p>
-<h1 style="text-align: center;">Full Doctrinal Statement</h1>
-<p><em>To set forth in order a declaration of those things which are most surely believed among us&#8230; &#8220;that thou mightest know the certainty of those things wherein thou hast been instructed,&#8221; we send forth the commonly believed confession of faith held among Separatist Baptists:</em></p>
-<hr />
-<p>&nbsp;</p>
-<h3 style="text-align: center;">I. OF THE SCRIPTURES</h3>
-<p>We believe the Holy Bible was written by men supernaturally inspired: that it has truth for its matter without any admixture of error; that it is and shall remain to the end of the age, the only complete and final revelation of the will of God to man; and that it is the true center of Christian union, and the supreme standard by which all human conduct, creeds, and opinions should be tried.</p>
-<p>We believe the Authorized (King James) Version Old and New Testaments are the Word of God kept intact for English-speaking peoples  by way of God&#8217;s divine providence and work of preservation; and that the Authorized Version translators were not &#8220;inspired&#8221;, but were merely God&#8217;s instruments used to preserve His words for English-speaking peoples.</p>
-<p>By &#8220;Holy Bible&#8221; we mean that the collection of sixty-six books, from Genesis to Revelation, which, as originally written and providentially preserved, does not only contain and convey the Word of God, but it is the very Word of God.</p>
-<p>By &#8220;inspiration&#8221; we mean that the books of the Bible were written by holy men of God as they were moved by the Holy Ghost in such a definite way that their writings were supernaturally and verbally inspired and free from error, as no other writings have ever been or ever will be inspired.</p>
-<p>By &#8220;providentially preserved&#8221; we mean that God through the ages has, in His divine providence, preserved the very words that He inspired; that the Hebrew Old Testament text, as found in the Traditional Masoretic Text, and the Greek New Testament text as found in the Textus Receptus, are indeed the products of God&#8217;s providential preservation, and are together the complete, preserved, inerrant Word of God.</p>
-<p>Dt 4:2, Ps 12:6-7; Ps 19:7-11; Ps 119:89,105,130,160; Isa 8:20; Isa 40:8; Jer 23:29; Ezk 12:25; Mt 5:17-18; Mt 22:29; Lk 24:44-45; Jn 12:48;Jn 17:17; Jn 20:30-31; Rom 3:4; Rom 15:4; Eph 6:17; II Tim 3:16-17; Heb: 4:12; I Pt 1:23-25; II Pt1:19-21; Rev 22:18-19.</p>
-<hr />
-<p>&nbsp;</p>
-<h3 style="text-align: center;">II. OF THE TRUE GOD</h3>
+
+Below, you&#8217;ll find a full statement of what we believe from the scriptures.  This statement will dictate the doctrine that we teach and preach on the field.
+
+# Full Doctrinal Statement
+
+*To set forth in order a declaration of those things which are most surely believed among us&#8230; &#8220;that thou mightest know the certainty of those things wherein thou hast been instructed,&#8221; we send forth the commonly believed confession of faith held among Separatist Baptists:*
+
+---
+
+&nbsp;
+
+### I. OF THE SCRIPTURES
+
+We believe the Holy Bible was written by men supernaturally inspired: that it has truth for its matter without any admixture of error; that it is and shall remain to the end of the age, the only complete and final revelation of the will of God to man; and that it is the true center of Christian union, and the supreme standard by which all human conduct, creeds, and opinions should be tried.
+
+We believe the Authorized (King James) Version Old and New Testaments are the Word of God kept intact for English-speaking peoples  by way of God&#8217;s divine providence and work of preservation; and that the Authorized Version translators were not &#8220;inspired&#8221;, but were merely God&#8217;s instruments used to preserve His words for English-speaking peoples.
+
+By &#8220;Holy Bible&#8221; we mean that the collection of sixty-six books, from Genesis to Revelation, which, as originally written and providentially preserved, does not only contain and convey the Word of God, but it is the very Word of God.
+
+By &#8220;inspiration&#8221; we mean that the books of the Bible were written by holy men of God as they were moved by the Holy Ghost in such a definite way that their writings were supernaturally and verbally inspired and free from error, as no other writings have ever been or ever will be inspired.
+
+By &#8220;providentially preserved&#8221; we mean that God through the ages has, in His divine providence, preserved the very words that He inspired; that the Hebrew Old Testament text, as found in the Traditional Masoretic Text, and the Greek New Testament text as found in the Textus Receptus, are indeed the products of God&#8217;s providential preservation, and are together the complete, preserved, inerrant Word of God.
+
+Dt 4:2, Ps 12:6-7; Ps 19:7-11; Ps 119:89,105,130,160; Isa 8:20; Isa 40:8; Jer 23:29; Ezk 12:25; Mt 5:17-18; Mt 22:29; Lk 24:44-45; Jn 12:48;Jn 17:17; Jn 20:30-31; Rom 3:4; Rom 15:4; Eph 6:17; II Tim 3:16-17; Heb: 4:12; I Pt 1:23-25; II Pt1:19-21; Rev 22:18-19.
+
+---
+
+&nbsp;
+
+### II. OF THE TRUE GOD
+
 <div> We believe there is one, and only one, living and true God, an infinite, intelligent Spirit, the Maker and Supreme Ruler of heaven and earth, inexpressibly glorious in holiness and worthy of all possible honor, confidence and love; and that in the unity of the Godhead there are three persons: the Father, the Son, and the Holy Spirit, equal in every divine perfection, and executing distinct, but harmonious offices in the great work of redemption.</div>
-<p>&nbsp;</p>
+
+&nbsp;
+
 <div>Ex 20:2-3; Ex 15:11; II Sam 7:22; Ps 83:18; Ps 90:2; Ps 147: 5; Isa 40:28; Isa 45:5-6; Jer 10:10; Mt 28:18; Mk 12:30; Jn 1:1-2,14; Jn 4:24; Jn 14:7-11; Jn 17:5; Rom 11:33; I Cor 8:6; I Cor 12:4-6; Phlp 2:5-6; Col 2:9; I Tim 1:17; I Tim 3:16; I Tim 6:13-16; I Jn 5:7; Rev 1:8.</div>
+
 <div>
 <hr />
 <p>&nbsp;</p>
@@ -166,3 +185,4 @@ layout: default
 <div align="left">Ex 22:28; II Sam 23:3 II Chrn 19:6; Ps 72:11; Prov 16:12-15; Prov 19:12; Prov 24:21; Prov 29:2; Eccl 8:2; Isa 10:1; Dan 2:21; Mt 17:24-27; Mt 22:21; Acts 4:19-20; Acts 5:29; Rom 13:1-7; Eph 6:5-9; Phlp 210-11; Col 3:22-25; Col 4:1; I Tim 2:1-4; I Tim 6:1-2; Tit 3:1; I Pt 2:13-14, 17-18.</div>
 <div align="left"></div>
 <p>&nbsp;</p>
+</div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>
