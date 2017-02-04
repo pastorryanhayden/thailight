@@ -1,6 +1,7 @@
 ---
 layout: default
 title: contact us
+body_class: contact
 ---
 
 
