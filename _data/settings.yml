@@ -1,24 +1,24 @@
-name: 'Thailight.org'
-logo_image_path: '/assets/design/logo.png'
-logo2_image_path: '/assets/design/logo.png'
-main_image: '/assets/design/main_background.png'
-phone: '812.764.0618'
-email: 'Bryan@ThaiLight.org'
+name: 'Thailight.org - The Ries Family, Missionaries to Thailand'
+logo_image_path: /assets/design/logo.png
+logo2_image_path: /assets/design/logo.png
+main_image: /assets/design/main_background.png
+phone: 812.764.0618
+email: Bryan@ThaiLight.org
 facebook: 'https://www.facebook.com/BryanandAngelRies?ref=br_rs'
 twitter: 'https://twitter.com/BryanLRies'
 youtube: 'https://www.youtube.com/channel/UCcm4_LNdo3TX8gG7LX3AhXw'
 instagram: 'https://www.instagram.com/bryanleeries/'
-address: '1458 Scarlet Court'
+address: 1458 Scarlet Court
 address2:
 City: Franklin
 State: IN
 Zip: '46131'
-mission_board_image: '/assets/design/gibm.png'
-sending_church_image: '/assets/design/northern_park.png'
+mission_board_image: /assets/design/gibm.png
+sending_church_image: /assets/design/northern_park.png
 main_blog_image: 'http://sitesforchurch.s3.amazonaws.com/ministryupdate%20ries.png'
-secondary_blog_image: '/assets/design/blog2.jpg'
+secondary_blog_image: /assets/design/blog2.jpg
 info_packet_url: 'http://sitesforchurch.s3.amazonaws.com/Info-Packet-Master-2.pdf'
-main_sermon_image: 
-default_calendar_image: 
-Google_calendar_id: 
-tinyletter: https://tinyletter.com/pastorryanhayden
+main_sermon_image:
+default_calendar_image:
+Google_calendar_id:
+tinyletter: 'https://tinyletter.com/pastorryanhayden'
