@@ -10,8 +10,6 @@ jpg_url: 'https://drive.google.com/file/d/0B5beVph53JaCNEUya1paTWVzd2s/view?usp=
 ---
 
 
-![](/uploads/versions/blog2---x----851-315x---.jpg)
-
 **Hello Churches and Prayer Partners,**
 
 **Prayer Push to 50%**
