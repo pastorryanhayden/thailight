@@ -1,9 +1,37 @@
 ---
 layout: post
 title: August 2017 Update
-date: '2017-01-10 18:35:14 -0600'
-categories: update
+date: 2017-08-17 08:00:00
+categories:
+  - update
 featured_image:
-pdf_url:
-jpg_url:
+pdf_url: 'https://drive.google.com/open?id=0B0O1hSaHCqL5T0Nxenc4Q3l5WVU'
+jpg_url: 'https://drive.google.com/open?id=0B0O1hSaHCqL5Vkd5TjBoUkpUTzQ'
 ---
+
+
+**Hello Churches and Prayer Partners,**
+
+We hope that you’ve had a fruitful summer of ministry. For us, summer is a time to slow things down just a little and refocus our family for the busy fall time ahead. We were able to attend a family camp and spend some time around our home base with extended family.
+
+![](/uploads/versions/travel-trailer-b---x----650-366x---.jpg)
+
+This month we transitioned our travels into a 26 ft. travel trailer. God miraculously provided the majority of the funds for us to purchase it through a church in Alabama. This will be a huge help to us as we are on the road in meetings for the next four months straight. The next time we return to our home base of Indiana is Thanksgiving.
+
+**During June and July, we have been able to…**
+
+* Share the Gospel need in Thailand with 9 new churches in IN, NC, VA, OH and TN.
+* God kept us safe as we traveled approximately 6,150 miles.
+* Our support stalled over the summer. Please pray with us for an increase this month. It would only take about 3 more supporting churches to arrive at the 50% mark.
+
+**This next 2 months…**
+
+During August and September, we will be presenting our ministry and trying to be a blessing in 13 churches throughout IN, MO, OK, TX, KS, VA and FL. Thank you for your faithful love, prayers and support!
+
+**By His Grace,**
+
+***Bryan and Angel Ries***
+
+***Andrew, Aaron, Abigail, Anna and Alexander***
+
+***Psalm 34:8***
