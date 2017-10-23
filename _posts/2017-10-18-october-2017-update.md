@@ -16,13 +16,13 @@ We are incredibly excited to announce that we have surpassed the 50% mark of our
 
 We are praying that God allows us to raise the remainder of our support before this time next year. Would you pray with us about this?
 
-<address><img alt="" src="/uploads/versions/ries-nance---x----960-640x---.jpg" width="960" height="640" /></address>
+<address><img alt="" width="960" height="640" src="/uploads/versions/ries-nance---x----960-640x---.jpg" /></address>
 
 <address>(We were able to be a part of the Missions Conference at Southside Baptist in Tampa, FL with Pastor Kerry Nance. We were members of this church for 2 years while we worked at Hope Children's Home. They are now a supporting church!)</address>
 
 &nbsp;
 
-**During the last few months, God has allowed us to...**
+**During the last few months, God has allowed us to…**
 
 Share the Gospel need in Thailand with 18 churches in IN, MO, OK, TX, KS, VA and FL.
 
