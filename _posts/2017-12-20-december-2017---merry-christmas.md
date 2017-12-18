@@ -5,8 +5,8 @@ date: 2017-12-20 06:35:00
 categories:
   - update
 featured_image:
-pdf_url:
-jpg_url:
+pdf_url: 'https://drive.google.com/open?id=1bKvDDqzmyLfa45zQikrly-q5iosGIaop'
+jpg_url: 'https://drive.google.com/open?id=1k-PkA4D43c3XlWLva6o2lEx6df_XfOnV'
 ---
 
 
@@ -14,7 +14,7 @@ jpg_url:
 
 Our family would like to wish your family and church family a Blessed and Merry Christmas! This is truly a special time of year. I relish the opportunity to focus on the first coming of Christ and recalling the purpose for His coming, to seek and to save that which was lost. We really like the decorations, lights, family get-togethers and gifts, too!<br><br>![](/uploads/versions/350---x----350-350x---.jpg)
 
-**So far, in November and December, God has allowed us to...**
+**So far, in November and December, God has allowed us to…**
 
 * Share the Gospel need in Thailand with several churches in CT, MA, NC, MD, IN, and FL.
 * Safely traveled approximately 6,500 miles.
