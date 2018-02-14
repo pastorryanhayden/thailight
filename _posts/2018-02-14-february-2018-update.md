@@ -13,7 +13,7 @@ jpg_url: 'https://drive.google.com/open?id=1s-jLAIZlpoZToU7O0l1twfpbqNpwU_nq'
 
 ![](/uploads/versions/andrew-hospital---x----594-334x---.jpg)
 
-**So far, in January and February, God has allowed us to...**
+**So far, in January and February, God has allowed us to…**
 
 * Share the Gospel need in Thailand with several churches in IL, IN, MO and FL.
 * Safely travel approximately 1,950 miles by car and 3,600 by plane.
@@ -21,7 +21,7 @@ jpg_url: 'https://drive.google.com/open?id=1s-jLAIZlpoZToU7O0l1twfpbqNpwU_nq'
 * Celebrate our 15th wedding anniversary.
 * Celebrate Alexander's 5th birthday and Anna's 7th birthday!
 
-**The rest of this month and March...**
+**The rest of this month and March…**
 
 During the rest of February and through March, we will be traveling and presenting our ministry to Thailand in several church services and Missions Conferences in FL, VA, and GA. We're praying that we will be doing these travels together as a family rather than apart. We'll also be celebrating Angel's birthday and Andrew's 12th birthday. Will you pray that God will continue to lead churches to partner together with us? We're incredibly grateful for your love, prayers and support. We love you all!
 
